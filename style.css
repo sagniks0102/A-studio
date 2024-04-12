@@ -1,0 +1,85 @@
+.main{
+    background-image: url(Image/Hero\ Headline.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+}
+
+.card img{
+    height: 121px;
+    width: 121px;
+    /* padding: 12px; */
+}
+.card1 img{
+    background-color: #F1F7FF;
+    
+}
+.card2 img{
+    background-color: #FFF7E3;
+    
+}
+.card3 img{
+    background-color: #FFF2F8;
+    
+}
+.card4 img{
+    background-color: #DEFFEE;
+    
+}
+.business {
+    background-image: url(Image/bg\ How\ can\ we\ Help.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.product{
+    background-image: url(Image/Great\ Since.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-size: cover; */
+}
+.happy-client{
+    background-image: url(Image/Happy\ Client.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.newsletter{
+    background-image: url(Image/Newsletter.png);
+    background-repeat: no-repeat;
+    background-size:  cover;
+    background-position: center;
+    
+}
+.contact-inner{
+    /* width: 100%; */
+    width: fit-content;
+    background-color: #fff;
+}
+.contact-inner input{
+    width: fit-content;
+}
+/* @media screen  and (max-width: 700px) {
+    .contact input{
+        width: 100vw;
+    }
+} */
+.contact button{
+    /* top: 7px;
+    left: 260px; */
+    background-color: #2639ED;
+    color: #fff;
+}
+
+/* .contact-inner{
+    width: 30vw;
+} */
+
+.footer-list1 ul{
+    list-style: none;
+}
+.footercpy{
+    color: #A4A4A4;
+}
+.card4{
+    margin-top: -50px;
+}
